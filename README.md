@@ -1,4 +1,8 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Welcome%20to%20-nl-Yuna%27s%20Gihub&fontSize=90&fontColor=121212)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna-001&layout=compact)
+
+
 
 <!--
 **Yuna-001/Yuna-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

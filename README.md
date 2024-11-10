@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Welcome%20to%20-nl-Yuna%27s%20Gihub&fontSize=90&fontColor=121212)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna-001&layout=compact)
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Welcome%20to%20-nl-Yuna%27s%20Github&fontSize=90&fontColor=121212"/>
+  
+  <br><br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna-001&layout=donut&hide_border=true&bg_color=0,00C9FF18,92FE9D18&title_color=121212&text_color=121212" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuna-001&bg_color=fff&color=121212&line=00C9FF&area=true&area_color=00C9FF&hide_title=true"/>
+</div>
 
 <!--
 **Yuna-001/Yuna-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

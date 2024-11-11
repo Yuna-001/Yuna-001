@@ -2,11 +2,12 @@
   
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Welcome%20to%20Yuna%27s%20GitHub&fontSize=50&fontColor=121212"/>
   
-<br>
+<br><br>
 
 <div>
   
 <h2>Skills</h2>
+<br>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
@@ -22,6 +23,7 @@
 <br><br>
 
 <h2>Learning</h2>
+<br>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B"/>
 
@@ -30,8 +32,9 @@
 <br><br>
 
 <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna-001&layout=donut&hide_border=true&bg_color=0,00C9FF18,92FE9D18&title_color=121212&text_color=121212" />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuna-001&bg_color=fff&color=121212&line=32DBDE&area=true&area_color=32DBDE&hide_title=true"/>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna-001&layout=donut&hide_border=true&bg_color=0,00C9FF88,92FE9D88&title_color=121212&text_color=121212" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuna-001&bg_color=none&color=32DBDE&line=32DBDE&area=true&area_color=32DBDE&hide_title=true&hide_border=true"/>
 
 </div>
 

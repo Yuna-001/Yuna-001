@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Welcome%20to%20Yuna%27s%20GitHub&fontSize=50&fontColor=121212"/>
+   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Welcome%20to%20-nl-Yuna%27s%20GitHub&fontSize=90&fontColor=121212&stroke=32BDDE&strokeWidth=1" width="800"/>
   
 <br><br>
 
@@ -33,8 +33,8 @@
 
 <h2>GitHub Stats</h2>
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna-001&layout=donut&hide_border=true&bg_color=0,00C9FF88,92FE9D88&title_color=121212&text_color=121212" />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuna-001&bg_color=none&color=32DBDE&line=32DBDE&area=true&area_color=32DBDE&hide_title=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuna-001&layout=donut&hide_border=true&bg_color=0,00C9FF77,92FE9D77&title_color=121212&text_color=121212" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuna-001&bg_color=none&color=555&line=32DBDE&area=true&area_color=32DBDE&hide_title=true&hide_border=true"/>
 
 </div>
 
